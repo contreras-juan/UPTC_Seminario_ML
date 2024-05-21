@@ -27,8 +27,7 @@ Martes y jueves 6 - 8 pm (hora de Colombia)
 - Introducción al Machine Learning [Github](/1_Aprendizaje_Supervisado/1_Machine_Learning.ipynb)
 - Regresión Lineal [Github](/1_Aprendizaje_Supervisado/2_Regresión_Lineal.ipynb)
 - Regresión Logística [Github](/1_Aprendizaje_Supervisado/4_Regresión_Logística.ipynb)
-- Máquinas de Soporte Vectorial
-- K-Vecinos-Más-Cercanos
+- K-Vecinos-Más-Cercanos [Github](/1_Aprendizaje_Supervisado/5_KNN.ipynb)
 
 ### 2. Aprendizaje no supervisado
 
