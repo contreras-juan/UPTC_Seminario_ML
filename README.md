@@ -31,8 +31,8 @@ Martes y jueves 6 - 8 pm (hora de Colombia)
 
 ### 2. Aprendizaje no supervisado
 
-- Reducción de dimensión
-- Técnicas de asociación
+- Reducción de dimensión [Github](/2_Aprendizaje_No_Supervisado/1_Reducción_Dimensión.ipynb)
+- Técnicas de asociación [Github](/2_Aprendizaje_No_Supervisado/2_Agrupamiento.ipynb)
 
 ### 3. Aprendizaje profundo
 
