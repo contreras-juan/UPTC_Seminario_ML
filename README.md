@@ -38,3 +38,4 @@ Martes y jueves 6 - 8 pm (hora de Colombia)
 
 - Introducción a las redes neuronales [Github](/3_Aprendizaje_Profundo/1_Intro_Redes_Neuronales.ipynb)
 - Entrenamiento de redes neuronales [Github](/3_Aprendizaje_Profundo/2_Entrenamiento_RNA.ipynb)
+- Curvas de entrenamiento [Github](/3_Aprendizaje_Profundo/3_Curvas_entrenamiento.ipynb)
